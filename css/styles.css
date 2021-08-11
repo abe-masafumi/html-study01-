@@ -1,0 +1,52 @@
+body {
+font-family: 'Courier New', Courier, monospace;
+width: 960px;
+}
+
+.container1 {
+    background: url("../img/main_bg.jpg");
+    background: cover;
+    background-position: center;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.h1title {
+font-size: 48px;
+color: white;
+}
+.ptitle {
+font-size: 24px;
+color: white;
+}
+
+.conteiner2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
+
+.container3 {
+  display: flex;
+  
+}
+
+.conseptbox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background: rgb(207, 206, 206);
+
+}
+
+.consept {
+  width: 85%;
+}
+
+
